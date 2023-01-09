@@ -4,7 +4,7 @@
     </p>
 
 <br>
-<h4 align="center">  ### 🛠 Technologies
+<h4 align="center"> 🛠 Technologies
 
 The following tools were used in building of this project:
 
