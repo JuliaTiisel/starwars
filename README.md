@@ -4,7 +4,8 @@
     </p>
 
 <h4 align="center"> 
-    :construction:  Project in construction  :construction:
+    ✅  Completed project  ✅
 </h4>
+
 
 
