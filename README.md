@@ -7,6 +7,7 @@
 <h4 align="center"> 🛠 Technologies
 
 The following tools were used in building of this project:
+    <br>
 
 - [Java](https://www.java.com/)
 - [Node.js](https://nodejs.org/en/)
