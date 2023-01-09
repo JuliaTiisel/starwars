@@ -4,7 +4,6 @@
     </p>
 
  ### 🛠 Technologies
-The following tools were used in building of this project:
 - Developed entirely in [Java](https://www.java.com/)
 
 <h4 align="center"> 
