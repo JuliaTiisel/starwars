@@ -3,7 +3,7 @@
 <p align="center">     I've done a new game-pong named by me, as starwars. This is my first game project as a learning. 
     </p>
 
-<p align="center"> ### 🛠 Technologies
+<h4 align="center">  ### 🛠 Technologies
 
 The following tools were used in building the project:
 
@@ -12,7 +12,7 @@ The following tools were used in building the project:
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
-    </p>
+    </h4>
 
 
 <h4 align="center"> 
