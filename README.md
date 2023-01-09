@@ -3,7 +3,7 @@
 <p align="center">     I've done a new game-pong named by me, as starwars. This is my first game project as a learning. 
     </p>
 
- ### 🛠 Technologies
+ ### 🛠  Technologies
 - Developed entirely in [Java](https://www.java.com/)
 
 <h4 align="center"> 
