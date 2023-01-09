@@ -5,13 +5,7 @@
 
  ### 🛠 Technologies
 The following tools were used in building of this project:
-- [Java](https://www.java.com/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-   
-<br>
+- Developed entirely in [Java](https://www.java.com/)
 
 <h4 align="center"> 
     ✅  Successfully completed project  ✅
