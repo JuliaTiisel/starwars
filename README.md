@@ -1,6 +1,6 @@
 <h1 align="center"> STARWARS </h1>
 
-I've done a new game-pong named by me, as starwars. This is my first game project as a learning.
+<p> I've done a new game-pong named by me, as starwars. This is my first game project as a learning. </p>
 
 <h4 align="center"> 
     :construction:  Project in construction  :construction:
